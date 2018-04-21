@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chinatown, Yokohama "
+title:  "chinatown と ぷりずま"
 date:   2018-02-24
 ---
 

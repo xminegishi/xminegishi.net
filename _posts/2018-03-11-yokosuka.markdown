@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "yokosuka うみべ"
+date:   2018-03-11
+---
+
+<div align="center">
+<img src="/images/2018-03-11/IMG_0672.jpg" width="70%" >
+<br/><br/><br/><br/>
+<img src="/images/2018-03-11/IMG_0673.jpg" width="70%">
+<br/><br/><br/><br/>
+<img src="/images/2018-03-11/IMG_0674.jpg" width="70%">
+<br/><br/><br/><br/>
+<img src="/images/2018-03-11/LRG_DSC00260.jpg" width="70%">
+</div>

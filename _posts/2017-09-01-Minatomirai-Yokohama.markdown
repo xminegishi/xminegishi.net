@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minatomirai, Yokohama"
+title:  "minatomirai ぷかりさんばし"
 date:   2017-09-01
 ---
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "goodbye 2017"
+date:   2017-12-31
+---
+
+<div align="center">
+<img src="/images/2017-12-31/IMG_0422.jpg" width="70%" >
+</div>

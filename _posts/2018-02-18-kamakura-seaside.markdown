@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kamakura, Enoshima, Seaside "
+title:  "kamakura, enoshima ねこたちと"
 date:   2018-02-18
 ---
 
